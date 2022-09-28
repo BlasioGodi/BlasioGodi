@@ -1,6 +1,6 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello There. I am Blasio Godi! <br/><a href="https://github.com/BlasioGodi">Software Engineer</a>, <a href="https://www.linkedin.com/in/godfrey-muhinda-57b147146/">BIM Developer</a>, <a href="https://tradersliquidity.com">AlgoTrader</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Engineering Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
