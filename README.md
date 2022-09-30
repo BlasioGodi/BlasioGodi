@@ -2,6 +2,7 @@
 
 
 <h2>Learning is a continuos process. My interests are:</h2>
+
 - <b>Artificial Intelligence and Machine Learning</b>
 - <b>Construction Technology - Building Information Modelling</b>
 - <b>Automated Trading in the Financial Markets</b>
@@ -12,21 +13,21 @@
 
 - <b>Object Oriented Programming in C++ Practice</b>
   - [Learning OOP in C++](https://github.com/BlasioGodi/Functions-and-Algorithms)
-- <b>Front-end Website Development (HTML, CSS, JavaScript, NodeJs</b>
+- <b>Front-end Website Development (HTML, CSS, JavaScript, NodeJs)</b>
   - [MyPortfolio](https://github.com/BlasioGodi/MyPortfolio)
   - [BIM-Experts](https://github.com/BlasioGodi/BIM-Experts)
   - [Traders-Liquidity](https://github.com/BlasioGodi/Traders-Liquidity)
   - [GypseyExpeditions](https://github.com/BlasioGodi/GypseyExpeditions)
 - <b>C# (.NET) Software Addins for Desktop Applications</b>
-  - [BIM Revit Addins for Increase functionality](https://github.com/BlasioGodi/)
-  - [Excel Addins for Automation](https://github.com/BlasioGodi/)
+  - [BIM Revit Addins for Increase functionality](https://github.com/BlasioGodi/Revit-Addins)
+  - [Excel Addins for Automation](https://github.com/BlasioGodi/Excel-Addins)
 - <b>MQL5 Algorithm Trading for the Financial Markets</b>
-  - [Algorithmic trading macro programs](https://github.com/BlasioGodi1/EncrypterPOC)
+  - [Algorithmic trading macro programs](https://github.com/BlasioGodi/ExpertFunctions)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="BlasioGodi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="BlasioGodi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BlasioGodi | Twitter" width="22px" src="https://github.com/BlasioGodi/Social-Icons/blob/main/Favicons/Twitter.png" />][twitter]
+[<img align="left" alt="BlasioGodi | LinkedIn" width="22px" src="https://github.com/BlasioGodi/Social-Icons/blob/main/Favicons/LinkedIN.png" />][linkedin]
 
-[twitter]: https://twitter.com//godfrey-muhinda-57b147146/
+[twitter]: https://twitter.com//TLiquidity1
 [linkedin]: https://linkedin.com/in//godfrey-muhinda-57b147146/
