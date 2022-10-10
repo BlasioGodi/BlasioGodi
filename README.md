@@ -1,7 +1,7 @@
 <h1>Hello There. I am Blasio Godi! <br/><a href="https://github.com/BlasioGodi">Software Engineer</a>, <a href="https://www.linkedin.com/in/godfrey-muhinda-57b147146/">BIM Developer</a>, <a href="https://tradersliquidity.com">AlgoTrader</a></h1>
 
 
-<h2>Learning is a continuos process. My interests are:</h2>
+<h2>Learning is a continuous process. My interests are:</h2>
 
 - <b>Artificial Intelligence and Machine Learning</b>
 - <b>Construction Technology - Building Information Modelling</b>
