@@ -27,6 +27,8 @@
   - [Intro to Web Dev Application](https://github.com/BlasioGodi/intro-to-dotnet-web-dev)
 - <b>MQL5 Algorithm Trading for the Financial Markets</b>
   - [Algorithmic trading macro programs](https://github.com/BlasioGodi/ExpertFunctions)
+- <b>Machine Learning for Algorithmic Trading</b>
+  - [Linear Regression - Practice Datasets](https://github.com/BlasioGodi/Machine-Learning-For-Algorithmic-Trading)
 
 <h2> 🤳 Connect with me:</h2>
 
