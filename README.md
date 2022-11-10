@@ -11,7 +11,7 @@
 
 <h2>Software Engineering Development Projects:</h2>
 
-- <b>Object Oriented Programming in C/C++/C#/Java Practice</b>
+- <b>Object Oriented Programming in C++/C#/Java Practice</b>
   - [Learning OOP in C++](https://github.com/BlasioGodi/Functions-and-Algorithms)
   - [C# Basics](https://github.com/BlasioGodi/C-Sharp-Basics)
 - <b>Front-end Website Development (HTML, CSS, JavaScript, NodeJs)</b>
