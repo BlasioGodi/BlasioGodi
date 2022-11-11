@@ -14,6 +14,7 @@
 - <b>Object Oriented Programming in C++/C#/Java Practice</b>
   - [Learning OOP in C++](https://github.com/BlasioGodi/Functions-and-Algorithms)
   - [C# Basics](https://github.com/BlasioGodi/C-Sharp-Basics)
+  - [Java Basics](https://github.com/BlasioGodi/Java-Basics)
 - <b>Front-end Website Development (HTML, CSS, JavaScript, NodeJs)</b>
   - [MyPortfolio](https://github.com/BlasioGodi/MyPortfolio)
   - [BIM-Experts](https://github.com/BlasioGodi/BIM-Experts)
