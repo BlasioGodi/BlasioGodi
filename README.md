@@ -37,4 +37,4 @@
 [<img align="left" alt="BlasioGodi | LinkedIn" width="22px" src="https://github.com/BlasioGodi/Social-Icons/blob/main/Favicons/LinkedIN.png" />][linkedin]
 
 [twitter]: https://twitter.com/TLiquidity1
-[linkedin]: https://linkedin.com/in/godfrey-muhinda-57b147146/
+[linkedin]: https://linkedin.com/in/godfrey-muhinda/
