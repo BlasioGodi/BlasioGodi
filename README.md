@@ -32,13 +32,19 @@
   - [Linear Regression - Practice Datasets](https://github.com/BlasioGodi/Machine-Learning-For-Algorithmic-Trading)
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="BlasioGodi | Twitter" width="22px" src="https://github.com/BlasioGodi/Social-Icons/blob/main/Favicons/Twitter.png" />][twitter]
-[<img align="left" alt="BlasioGodi | LinkedIn" width="22px" src="https://github.com/BlasioGodi/Social-Icons/blob/main/Favicons/LinkedIN.png" />][linkedin]
-
-[twitter]: https://twitter.com/TLiquidity1
-[linkedin]: https://linkedin.com/in/godfrey-muhinda/
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="badges" align="center">
+  <a href="[your-linkedin-URL](https://linkedin.com/in/godfrey-muhinda/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/TLiquidity1)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
