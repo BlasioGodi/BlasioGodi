@@ -8,9 +8,6 @@
 - <b>Desktop Application development in C# (.NET)</b>
 - <b>Front-end and Back-end Website Development</b>
 
-<h2>Toolstacks, libraries and frameworks</h2>
-
-
 <h2>Software Engineering Development Projects:</h2>
 
 - <b>Object Oriented Programming in C++/C#/Java Practice</b>
@@ -33,6 +30,46 @@
   - [Algorithmic trading macro programs](https://github.com/BlasioGodi/ExpertFunctions)
 - <b>Machine Learning for Algorithmic Trading</b>
   - [Linear Regression - Practice Datasets](https://github.com/BlasioGodi/Machine-Learning-For-Algorithmic-Trading)
+
+<h2>Toolstacks, libraries and frameworks</h2>
+
+<b>Toolstacks used</b>
+  - Front-end Design Languages
+  <div id="badges" align="Left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+</div>
+<br>
+
+  - Back-end Design Languages
+  <div id="badges" align="Left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="C#"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+<br>
+
+  - Frameworks and Libraries
+  <div id="badges" align="Left">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery"/>
+    <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white" alt="JSS"/> 
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp"/>   
+</div>
+
+<br>
+
+  - IDEs of Choice
+  <div id="badges" align="Left">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>   
+</div>
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 <div id="header" align="center">
