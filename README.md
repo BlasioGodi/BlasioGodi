@@ -8,6 +8,9 @@
 - <b>Desktop Application development in C# (.NET)</b>
 - <b>Front-end and Back-end Website Development</b>
 
+<h2>Toolstacks, libraries and frameworks</h2>
+
+
 <h2>Software Engineering Development Projects:</h2>
 
 - <b>Object Oriented Programming in C++/C#/Java Practice</b>
