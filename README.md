@@ -17,7 +17,7 @@
 - <b>Front-end Website Development (HTML, CSS, JavaScript, NodeJs)</b>
   - [The Odin Project](https://github.com/BlasioGodi/The-Odin-Project)
   - [BIM-Experts](https://github.com/BlasioGodi/BIM-Experts)
-  - [Xauman](https://github.com/BlasioGodi/Xauman)
+  - [Xauman.com](https://github.com/BlasioGodi/Xauman.com)
   - [Hessal Solutions](https://github.com/BlasioGodi/hessal-solutions)
   - [GypseyExpeditions](https://github.com/BlasioGodi/GypseyExpeditions)
 - <b>C# (.NET) Software Addins for Desktop Applications</b>
