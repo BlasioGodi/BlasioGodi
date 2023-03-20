@@ -15,9 +15,10 @@
   - [C# Basics](https://github.com/BlasioGodi/C-Sharp-Basics)
   - [Java Basics](https://github.com/BlasioGodi/Java-Basics)
 - <b>Front-end Website Development (HTML, CSS, JavaScript, NodeJs)</b>
-  - [MyPortfolio](https://github.com/BlasioGodi/MyPortfolio)
+  - [The Odin Project](https://github.com/BlasioGodi/The-Odin-Project)
   - [BIM-Experts](https://github.com/BlasioGodi/BIM-Experts)
-  - [Traders-Liquidity](https://github.com/BlasioGodi/Traders-Liquidity)
+  - [Xauman](https://github.com/BlasioGodi/Xauman)
+  - [Hessal Solutions](https://github.com/BlasioGodi/hessal-solutions)
   - [GypseyExpeditions](https://github.com/BlasioGodi/GypseyExpeditions)
 - <b>C# (.NET) Software Addins for Desktop Applications</b>
   - [BIM Revit Addins for Increase functionality](https://github.com/BlasioGodi/Revit-Addins)
