@@ -21,11 +21,11 @@
   - [Hessal Solutions](https://github.com/BlasioGodi/hessal-solutions)
   - [GypseyExpeditions](https://github.com/BlasioGodi/GypseyExpeditions)
 - <b>C# (.NET) Software Addins for Desktop Applications</b>
+  - [C# Application - Tournament Tracker](https://github.com/BlasioGodi/Tournament-Tracker)
   - [BIM Revit Addins for Increase functionality](https://github.com/BlasioGodi/Revit-Addins)
   - [Excel Addins for Automation](https://github.com/BlasioGodi/Excel-Addins)
 - <b>ASP.Net Web Dev Applications</b>
   - [Intro to Web Dev Application](https://github.com/BlasioGodi/intro-to-dotnet-web-dev)
-  - [C# Application - Tournament Tracker](https://github.com/BlasioGodi/Tournament-Tracker)
   - [Web Applications using ASP.Net](https://github.com/BlasioGodi/ASP.Net-Web-Applications)
 - <b>MQL5 Algorithmic Trading for the Financial Markets</b>
   - [Algorithmic trading macro programs](https://github.com/BlasioGodi/ExpertFunctions)
