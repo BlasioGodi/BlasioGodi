@@ -2,7 +2,7 @@
 
 <h2>Learning is a continuous process. My interests are:</h2>
 
-- <b>Front-end and Back-end Website Development</b>
+- <b>Full Stack Web Development</b>
 - <b>Desktop Application development in C# (.NET)</b>
 - <b>Artificial Intelligence and Machine Learning</b>
 - <b>Construction Technology - Building Information Modelling</b>
