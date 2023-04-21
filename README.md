@@ -14,7 +14,7 @@
   - [Learning OOP in C++](https://github.com/BlasioGodi/Functions-and-Algorithms)
   - [C# Basics](https://github.com/BlasioGodi/C-Sharp-Basics)
   - [Java Basics](https://github.com/BlasioGodi/Java-Basics)
-- <b>Front-end Website Development (HTML, CSS, JavaScript, NodeJs)</b>
+- <b>Front-end Website Development (HTML, CSS, Vanilla Javascript, ReactJS)</b>
   - [The Odin Project](https://github.com/BlasioGodi/The-Odin-Project)
   - [BIM-Experts](https://github.com/BlasioGodi/BIM-Experts)
   - [Xauman.com](https://github.com/BlasioGodi/Xauman.com)
