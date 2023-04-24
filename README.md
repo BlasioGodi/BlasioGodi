@@ -26,6 +26,8 @@
   - [Excel Addins for Automation](https://github.com/BlasioGodi/Excel-Addins)
 - <b>ASP.Net Web Dev Applications</b>
   - [First WebApp - Product Site](https://github.com/BlasioGodi/)
+  - [Xauman - Web-Application](https://github.com/BlasioGodi/)
+  - [BVitati Jewelry - E-Commerce Site](https://github.com/BlasioGodi/)
 - <b>MQL5 Algorithmic Trading for the Financial Markets</b>
   - [Algorithmic trading macro programs](https://github.com/BlasioGodi/ExpertFunctions)
 - <b>Machine Learning for Algorithmic Trading</b>
