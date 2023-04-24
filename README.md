@@ -3,6 +3,7 @@
 <h2>Learning is a continuous process. My interests are:</h2>
 
 - <b>Full Stack Web Development</b>
+- <b>Web Application development using ASP.NET Core</b>
 - <b>Desktop Application development in C# (.NET)</b>
 - <b>Artificial Intelligence and Machine Learning</b>
 - <b>Construction Technology - Building Information Modelling</b>
